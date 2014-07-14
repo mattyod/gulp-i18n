@@ -1,4 +1,4 @@
-# gulp-i18n
+# gulp-i18n [![Build Status](https://secure.travis-ci.org/mattyod/gulp-i18n.png?branch=master)](http://travis-ci.org/mattyod/gulp-i18n) [![NPM version](http://badge.fury.io/js/gulp-i18n.svg)](https://www.npmjs.org/package/gulp-i18n)
 
 Tools for building internationalised templates.
 
